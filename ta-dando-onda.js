@@ -4207,3 +4207,5 @@ Go back to Hollywood.
 
   
 Cody would never do this.
+
+`).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
