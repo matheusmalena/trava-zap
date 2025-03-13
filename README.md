@@ -13,7 +13,7 @@ Siga o passo a passo abaixo para executar o script:
 2. Navegue até a aba **Console**.
 
 ### Passo 3: Cole o Código no Console
-Cole o código abaixo no console e pressione `Enter`:
+Cole o código ta-dando-onda.js no console e pressione `Enter`:
 
 ### Passo 4: Execute o Script
 O script irá automaticamente enviar as mensagens linha por linha para a conversa aberta no WhatsApp Web.
