@@ -22,10 +22,3 @@ O script irá automaticamente enviar as mensagens linha por linha para a convers
 
 > **Nota:** Certifique-se de que uma conversa esteja aberta antes de executar o script. Caso contrário, o código não funcionará.
 
-## Importante
-- Este código não é um spammer. Use com cautela.
-- Não nos responsabilizamos por qualquer uso indevido.
-
----
-
-Feito com ❤️ por [Seu Nome].
